@@ -1,0 +1,15 @@
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName nyslc.org
+DirectoryIndex default.htm index.phtml index.pht index.cgi index.shtml index.html index.php welcome.cgi welcome.html index.pdf index.htm
+DirectoryIndex default.htm index.phtml index.pht index.cgi index.shtml index.html index.php welcome.cgi welcome.html index.pdf index.htm

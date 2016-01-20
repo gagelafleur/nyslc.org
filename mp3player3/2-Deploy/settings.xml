@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+width="546"
+loadBarWidth="250"
+playlistHeight="140"
+soundVolume="50"
+initialSongNumber="1"
+bufferOnLoad="on"
+playOnLoad="on"
+replayButton="on"
+previousButton="on"
+nextButton="on"
+enabledOpenClosePlayList="on"
+playlistIsOpenned="on"
+closePlaylistOnSelectSong="off"
+titleVisible="on"
+onFinishSong="next"
+
+></menu>
+
+<songs>
+
+<song>
+<path><![CDATA[songs/04 Track 04 24.mp3]]></path>
+<artist><![CDATA[Michael]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/06 Track 06 24.mp3]]></path>
+<artist><![CDATA[Michael]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/13 Track 13 13.mp3]]></path>
+<artist><![CDATA[William]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/30 I Am Not A Monster.mp3]]></path>
+<artist><![CDATA[David]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/32 Help.mp3]]></path>
+<artist><![CDATA[Shamel]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/34 Track 34 5.mp3]]></path>
+<artist><![CDATA[Markeish]]></artist>
+<title><![CDATA[From "Where Is Tomorrow Coming From"]]></title>
+</song>
+
+</songs>	

@@ -1,0 +1,37 @@
+<FlippingBook>
+<width> 876 </width>
+<height> 445 </height>
+<scaleContent> TRUE </scaleContent>
+<firstPage> 1 </firstPage>
+<alwaysOpened>TRUE </alwaysOpened>
+<autoFlip> 125 </autoFlip>
+<flipOnClick> TRUE </flipOnClick>
+<shadowsDepth> 1 </shadowsDepth>
+<moveSpeed> 1 </moveSpeed>
+<closeSpeed> 1 </closeSpeed>
+<gotoSpeed> 2 </gotoSpeed>
+<flipSound> mp3/04.mp3 </flipSound>
+<pageBack> 0xfbead0
+ </pageBack>
+<loadOnDemand> TRUE </loadOnDemand>
+<cachePages> TRUE </cachePages>
+<usePreloader> TRUE </usePreloader>
+<pages> 
+<page> book_images/1.jpg </page>
+<page> book_images/2.jpg </page>
+<page> book_images/3.jpg </page>
+<page> book_images/4.jpg </page>
+<page> book_images/5.jpg </page>
+<page> book_images/6.jpg </page>
+<page> book_images/7.jpg </page>
+<page> book_images/8.jpg </page>
+<page> book_images/9.jpg </page>
+<page> book_images/10.jpg </page>
+<page> book_images/11.jpg </page>
+<page> book_images/12.jpg </page>
+<page> book_images/13.jpg </page>
+<page> book_images/14.jpg </page>
+<page> book_images/15.jpg </page>
+<page> book_images/16.jpg </page>
+</pages>
+</FlippingBook>

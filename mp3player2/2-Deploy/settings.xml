@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+width="546"
+loadBarWidth="250"
+playlistHeight="140"
+soundVolume="50"
+initialSongNumber="1"
+bufferOnLoad="on"
+playOnLoad="on"
+replayButton="on"
+previousButton="on"
+nextButton="on"
+enabledOpenClosePlayList="on"
+playlistIsOpenned="on"
+closePlaylistOnSelectSong="off"
+titleVisible="on"
+onFinishSong="next"
+
+></menu>
+
+<songs>
+
+<song>
+<path><![CDATA[songs/04 Track 04 23.mp3]]></path>
+<artist><![CDATA[Malcolm]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/08 Track 08 14.mp3]]></path>
+<artist><![CDATA[Daniel]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/15 Track 15 12.mp3]]></path>
+<artist><![CDATA[Malcolm]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/17 Track 17 11.mp3]]></path>
+<artist><![CDATA[Lyndon]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/23 Track 23 7.mp3]]></path>
+<artist><![CDATA[Rodrick]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+<song>
+<path><![CDATA[songs/24 Track 24 10.mp3]]></path>
+<artist><![CDATA[Malcolm]]></artist>
+<title><![CDATA[From "I Stand Here Before You"]]></title>
+</song>
+
+</songs>	

@@ -1,0 +1,15 @@
+OK Here's what you do to add your photos to the photo album.
+
+Step 1 - Go to the "FLASH FILES" Start by making a copy of the "book_images". Save it to the "Saved Files" folder. There is already a copy there but it pays to be safe.
+
+Step 2 - Open the  "book_images" folder and open the images in photoshop
+
+Step 3 - Open the "PHOTOSHOP FILES" folder and find "Photo Corners.psd" and open it.
+
+Step 4 - Cut and paste your images on to each page from the  "book_images" folder. Resize your images to fit the page and add the corners. Flatten the image and save it.
+
+NOTE - If you have more images in your photo album just duplicate the pages and number them accordingly. be careful to to use both right and left pages when you duplicate them. Left pages are odd numbered and right pages are even numbered. If you have less just delete the other pages. Then open "config.xml" in the "FLASH FILES" folder with any text editor and add or delete pages. There are other variables you can play with but don't change the width or hight settings.
+
+I made the SWF file with "Web Graphics Creator" from Laughingbird Software.  It is not editable. You can find the program here I highly recommend it-> 
+http://www.webgraphicscreator.com/
+
