@@ -1,6 +1,6 @@
 var twenty1617 = '<a class="qm-startopen" href="javascript:void(0);">2016 - 2017</a>'+
 '<div><a href="Readinglist11thYear.htm">The Reading List</a>'+
-'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">2016 - 2017 "Rebuilding Families"</a>'+
+'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">Rebuilding Families</a>'+
 '    <a href="javascript:void(0);"></a><a href="findingneverland.htm" class="menu-indent">RBTL\'s "Finding Neverland"</a>'+
 '    <a href="javascript:void(0);"></div>';
 
@@ -10,7 +10,7 @@ var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016
 '    <a href="javascript:void(0);"></a><a href="notesnativesons.htm" class="menu-indent">Notes of Two Rochester Native Sons</a>'+
 '    <a href="javascript:void(0);"></a><a href="images/WomensWriting.pdf" class="menu-indent">Writing by Women</a>'+
 '    <a href="javascript:void(0);"></a><a href="images/MensWriting.pdf" class="menu-indent">Writing by Men</a>'+
-'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1516.htm">2015 - 2016 "Rebuilding Families"</a>'+
+'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1516.htm">Rebuilding Families</a>'+
 '    <a href="javascript:void(0);"></a><a href="motown.htm" class="menu-indent">RBTL\'s "Motown The Musical"</a>'+
 '    <a href="javascript:void(0);"></a><a href="wizardofoz.htm" class="menu-indent">RBTL\'s "Wizard of Oz"</a>'+
 '    <a href="javascript:void(0);"></a><a href="matilda.htm" class="menu-indent">RBTL\'s "Matilda"</a>'+
@@ -25,7 +25,7 @@ var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015
 '<a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar.htm">The Community Engagement Seminar</a>'+
 '<a href="javascript:void(0);"></a><a href="WIPNinthYr.htm" class="menu-indent">Work In Progress</a>'+
 '<a href="javascript:void(0);"></a><a href="foodforthought/Food For Thought June 2015.pdf" target="new window" class="menu-indent">FOOD FOR THOUGHT, Vol 1, No. 1, June 2015</a>'+
-'<a href="javascript:void(0);"></a><a href="RebuildingFamilies.htm">2014 - 2015 "Rebuilding Families"</a>'+
+'<a href="javascript:void(0);"></a><a href="RebuildingFamilies.htm">Rebuilding Families</a>'+
 '<a href="javascript:void(0);"></a><a href="9thyearOverview.htm" class="menu-indent">Overview</a>'+
 '<a href="javascript:void(0);"></a><a href="joseph.htm" class="menu-indent">RBTL\'s "Joseph and The Amazing Technicolor Dreamcoat"</a>'+
 '<a href="javascript:void(0);"></a><a href="cinderella.htm" class="menu-indent">RBTL\'s "Cinderella"</a>'+
