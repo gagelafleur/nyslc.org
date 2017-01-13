@@ -14,7 +14,7 @@ var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016
 '    <a href="javascript:void(0);"></a><a href="motown.htm" class="menu-indent">RBTL\'s "Motown The Musical"</a>'+
 '    <a href="javascript:void(0);"></a><a href="wizardofoz.htm" class="menu-indent">RBTL\'s "Wizard of Oz"</a>'+
 '    <a href="javascript:void(0);"></a><a href="matilda.htm" class="menu-indent">RBTL\'s "Matilda"</a>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater 2015 - 2016 </a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
 '    <a href="javascript:void(0);"></a><a href="ReadingJamesBaldwin.htm" class="menu-indent">Reading James Baldwin 2015 (Video)</a>'+
 '    <a href="javascript:void(0);"></a>'+
 '</div>';
@@ -22,7 +22,7 @@ var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016
 var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015</a>'+
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="ReadinglistNinthYear.htm">The Reading List</a>'+
-'<a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar.htm">The Community Engagement Seminar</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">The Community Engagement Seminar</a>'+
 '<a href="javascript:void(0);"></a><a href="WIPNinthYr.htm" class="menu-indent">Work In Progress</a>'+
 '<a href="javascript:void(0);"></a><a href="foodforthought/Food For Thought June 2015.pdf" target="new window" class="menu-indent">FOOD FOR THOUGHT, Vol 1, No. 1, June 2015</a>'+
 '<a href="javascript:void(0);"></a><a href="RebuildingFamilies.htm">Rebuilding Families</a>'+
@@ -31,17 +31,18 @@ var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015
 '<a href="javascript:void(0);"></a><a href="cinderella.htm" class="menu-indent">RBTL\'s "Cinderella"</a>'+
 '<a href="javascript:void(0);"></a><a href="pippin.htm" class="menu-indent">RBTL\'s "Pippin"</a>'+
 '<a href="javascript:void(0);"></a><a href="annie.htm" class="menu-indent">RBTL\'s "Annie"</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
 '<a href="javascript:void(0);"></a><a href="video1964.htm" class="menu-indent">Where We Have Been: 1964 An Educational Collaboration on the Summer of 1964, Performed at Monroe Correctional Facility, August 6, 2014</a></div>';
 
 var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014 "How To Get From Here To The Rest of The World"</a>'+
 '<div>'+
 '  <a href="readinglisteighthyear.htm">The Reading List</a>'+
-'  <a href="CommunityEngagementSeminar.htm">The Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);">The Community Engagement Seminar</a>'+
 '  <a href="8thyearOverview.htm" class="menu-indent">Overview</a>'+
 '  <a href="ROC_Hunger_Drawings.htm" class="menu-indent">ROC Hunger Drawings</a>'+
 '  <a href="fromheretoworld.htm" class="menu-indent">Hakim Bellamy at Monroe Correctional Facility, October 2013</a>'+
 '  <a href="videoHakim.htm" class="menu-indent">Video of Hakim Bellamy at Monroe Correctional Facility</a>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater 2013 - 2014 </a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
 '  <a href="whatdowedonext.htm" class="menu-indent">"What Do We Do Next?" Performed at Monroe Correctional Facility December 19, 2013</a>'+
 '</div>';
 
