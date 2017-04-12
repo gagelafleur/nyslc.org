@@ -4,6 +4,7 @@ var twenty1617 = '<a class="qm-startopen" href="javascript:void(0);">2016 - 2017
 '    <a href="javascript:void(0);"></a><a href="writing2017.htm" class="menu-indent">Writing 2017</a>'+
 '    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">Rebuilding Families</a>'+
 '    <a href="javascript:void(0);"></a><a href="findingneverland.htm" class="menu-indent">RBTL\'s "Finding Neverland"</a>'+
+'    <a href="javascript:void(0);"></a><a href="wicked.htm" class="menu-indent">RBTL\'s "Wicked"</a>'+
 '    <a href="javascript:void(0);"></div>';
 
 var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016</a>'+
