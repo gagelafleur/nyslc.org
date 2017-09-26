@@ -13,3 +13,7 @@ deny from all
 AuthName nyslc.org
 DirectoryIndex default.htm index.phtml index.pht index.cgi index.shtml index.html index.php welcome.cgi welcome.html index.pdf index.htm
 DirectoryIndex default.htm index.phtml index.pht index.cgi index.shtml index.html index.php welcome.cgi welcome.html index.pdf index.htm
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R,L]
