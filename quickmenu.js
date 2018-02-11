@@ -2,7 +2,7 @@ var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018
 '<div>    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Rebuilding Families</a>'+
 '<a href="javascript:void(0);"></a><a href="christmasstory.htm" class="menu-indent">RBTL\'s \"A CHRISTMAS STORY, The Musical\"</a>'+
 '<a href="javascript:void(0);"></a><a href="frederickdouglass.htm">Frederick Douglass</a>'+
-'<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">Reading List</a>'+
+'<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">The Reading List</a>'+
 '    <a href="javascript:void(0);"></div>';
 
 
