@@ -1,9 +1,9 @@
 var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
 '<div>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '<a href="javascript:void(0);"></a><a href="frederickdouglass.htm" class="menu-indent">Frederick Douglass</a>'+
 '<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">Frederick Douglass Reading List</a>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">Rebuilding Families</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
 '<a href="javascript:void(0);"></a><a href="christmasstory.htm" class="menu-indent">RBTL\'s \"A CHRISTMAS STORY, The Musical\"</a>'+
 
 '    <a href="javascript:void(0);"></div>';
@@ -12,32 +12,32 @@ var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018
 
 
 //<a href="Readinglist11thYear.htm">The Reading List</a>'+
-//'    <a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar1617.htm">The Community Engagement Seminar</a>'+
+//'    <a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar1617.htm">The COMMUNITY ENGAGEMENT SEMINAR</a>'+
 //'    <a href="javascript:void(0);"></a><a href="writing2017.htm" class="menu-indent">Writing 2017</a>'+
-//'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">Rebuilding Families</a>'+
+//'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">REBUILDING FAMILIES </a>'+
 
 
 var twenty1617 = '<style>#qm0 .menu-indent{margin-left: 15px;}</style><a class="qm-startopen" href="javascript:void(0);">2016 - 2017</a>'+
 '<div>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '		 <a href="javascript:void(0);"></a><a href="Readinglist11thYear.htm" class="menu-indent">The Reading List</a>'+
 '    <a href="javascript:void(0);"></a><a href="writing2017.htm" class="menu-indent">Writing In The Seminar</a>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Rebuilding Families</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
 '    <a href="javascript:void(0);"></a><a href="findingneverland.htm" class="menu-indent">RBTL\'s "Finding Neverland"</a>'+
 '    <a href="javascript:void(0);"></a><a href="wicked.htm" class="menu-indent">RBTL\'s "Wicked"</a>'+
 '    <a href="javascript:void(0);"></div>';
 
 var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016</a>'+
-'<div><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'<div><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '    <a href="javascript:void(0);"></a><a href="Readinglist10thYear.htm" class="menu-indent">The Reading List</a>'+
 '    <a href="javascript:void(0);"></a><a href="notesnativesons.htm" class="menu-indent">Notes of Two Rochester Native Sons</a>'+
 '    <a href="javascript:void(0);"></a><a href="images/MensWriting.pdf" class="menu-indent">Writing by Men</a>'+
 '    <a href="javascript:void(0);"></a><a href="images/WomensWriting.pdf" class="menu-indent">Writing by Women</a>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Rebuilding Families</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
 '    <a href="javascript:void(0);"></a><a href="motown.htm" class="menu-indent">RBTL\'s "Motown The Musical"</a>'+
 '    <a href="javascript:void(0);"></a><a href="wizardofoz.htm" class="menu-indent">RBTL\'s "Wizard of Oz"</a>'+
 '    <a href="javascript:void(0);"></a><a href="matilda.htm" class="menu-indent">RBTL\'s "Matilda"</a>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '    <a href="javascript:void(0);"></a><a href="ReadingJamesBaldwin.htm" class="menu-indent">Reading James Baldwin 2015 (Video)</a>'+
 '    <a href="javascript:void(0);"></a>'+
 '</div>';
@@ -45,34 +45,34 @@ var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016
 var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015</a>'+
 '<div>'+
 
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '<a href="javascript:void(0);"></a><a href="ReadinglistNinthYear.htm" class="menu-indent">The Reading List</a>'+
 '<a href="javascript:void(0);"></a><a href="WIPNinthYr.htm" class="menu-indent">Work In Progress: Writing by Men and Women </a>'+
 '<a href="javascript:void(0);"></a><a href="foodforthought/Food For Thought June 2015.pdf" target="new window" class="menu-indent">Food For Thought, Newsletter by Men and Women on Rochester\'s Poverty Initiative </a>'+
-'<a href="javascript:void(0);"></a><a href="RebuildingFamilies.htm">Rebuilding Families</a>'+
+'<a href="javascript:void(0);"></a><a href="RebuildingFamilies.htm">REBUILDING FAMILIES </a>'+
 //'<a href="javascript:void(0);"></a><a href="9thyearOverview.htm" class="menu-indent">Overview</a>'+
 '<a href="javascript:void(0);"></a><a href="joseph.htm" class="menu-indent">RBTL\'s "Joseph and The Amazing Technicolor Dreamcoat"</a>'+
 '<a href="javascript:void(0);"></a><a href="cinderella.htm" class="menu-indent">RBTL\'s "Cinderella"</a>'+
 '<a href="javascript:void(0);"></a><a href="pippin.htm" class="menu-indent">RBTL\'s "Pippin"</a>'+
 '<a href="javascript:void(0);"></a><a href="annie.htm" class="menu-indent">RBTL\'s "Annie"</a>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '<a href="javascript:void(0);"></a><a href="video1964.htm" class="menu-indent">"Where We Have Been: 1964 An Educational Collaboration on the Summer of 1964"</a></div>';
 
 var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '  <a href="javascript:void(0);"></a><a href="readinglisteighthyear.htm" class="menu-indent">The Reading List</a>'+
 '  <a href="javascript:void(0);"></a><a href="8thyearOverview.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"></a><a href="ROC_Hunger_Drawings.htm" class="menu-indent">ROC Hunger Drawings</a>'+
 '  <a href="javascript:void(0);"></a><a href="fromheretoworld.htm" class="menu-indent">Hakim Bellamy at Monroe Correctional Facility, October 2013</a>'+
 '  <a href="javascript:void(0);"></a><a href="videoHakim.htm" class="menu-indent">Video of Hakim Bellamy at Monroe Correctional Facility</a>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">Theater</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '  <a href="javascript:void(0);"></a><a href="whatdowedonext.htm" class="menu-indent">"What Do We Do Next?" Performed at Monroe Correctional Facility December 19, 2013</a>'+
 '</div>';
 
 var twenty1213 = '<a class="qm-startopen" href="javascript:void(0);">2012 - 2013</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '  <a href="javascript:void(0);"></a><a href="readinglistseventhyear.htm" class="menu-indent">The Reading List</a>'+
 '  <a href="javascript:void(0);"></a><a href="WIP.htm" class="menu-indent">Work In Progress</a>'+
 '  <a href="javascript:void(0);"></a><a href="lifeandtimes.htm" class="menu-indent">Narrative of Our Life and Times</a>'+
@@ -80,7 +80,7 @@ var twenty1213 = '<a class="qm-startopen" href="javascript:void(0);">2012 - 2013
 
 var twenty1112 = '<a class="qm-startopen" href="javascript:void(0);">2011 - 2012</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '  <a href="javascript:void(0);"></a><a href="thetimelineproject19701990.htm" class="menu-indent">The Timeline Project 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="timeline19701990.htm" class="menu-indent">Creating the Timeline 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="darkside.htm" class="menu-indent">Rochester: The Dark Side</a>'+
@@ -91,68 +91,78 @@ var twenty1112 = '<a class="qm-startopen" href="javascript:void(0);">2011 - 2012
 
 var twenty1011 = '<a class="qm-startopen" href="javascript:void(0);">2010 - 2011</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '  <a href="javascript:void(0);"></a><a href="timelineproject.htm" class="menu-indent">The Timeline Project 1950 - 1970</a>'+
 '  <a href="javascript:void(0);"></a><a href="5th%20year%20partnership.htm" class="menu-indent">Sharing Thoughts on Education and The Stories of Incarcerated Youth with High School Principals</a>'+
 '  <a href="javascript:void(0);"></a><a href="dreamsmural.htm" class="menu-indent">Picturing Our Dreams</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '  <a href="javascript:void(0);"></a><a href="raisedintheroc.htm" class="menu-indent">"Born Raised In The Roc"</a>'+
 //'  <a href="javascript:void(0);"></a><a href="fifthyear1011.htm">The Fifth Year 2010 - 2011</a>'+
 '</div>';
 
 var twenty0910 = '<a class="qm-startopen" href="javascript:void(0);">2009 - 2010</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 //'  <a href="javascript:void(0);"><a href="fourthyear0910.htm">The Fourth Year 2009 - 2010</a>'+
-'  <a href="javascript:void(0);"><a href="4north.htm" class="menu-indent">"Notes From 4 North, When You Fail Part of Me Dies"</a>'+
-'  <a href="javascript:void(0);"><a href="freedommural.htm" class="menu-indent">Murals for the Visiting Rooms</a>'+
+'  <a href="javascript:void(0);"><a href="studentnotebooks.htm" class="menu-indent">Notebooks of Seminar Participants </a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate09-10.htm" class="menu-indent">Reflections</a>'+
-'  <a href="javascript:void(0);"><a href="annefrankabout.htm">The Anne Frank Prison Diary Writing Project</a>'+
-'  <a href="javascript:void(0);"><a href="steeldrumband4yr.htm">The Steel Drum Band</a>'+
+'  <a href="javascript:void(0);"><a href="freedommural.htm" class="menu-indent">Murals for the Visiting Rooms</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
+'  <a href="javascript:void(0);"><a href="4north.htm" class="menu-indent">"Notes From 4 North, When You Fail Part of Me Dies"</a>'+
+'  <a href="javascript:void(0);"><a href="annefrankabout.htm">THE ANNE FRANK PRISON DIARY WRITING PROJECT</a>'+
+'  <a href="javascript:void(0);"><a href="steeldrumband4yr.htm">THE STEEL DRUM BAND</a>'+
 '</div>';
 
 var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">Community Engagement Seminar</a>'+
+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '  <a href="javascript:void(0);"><a href="thirdyear0809.htm" class="menu-indent">Overview</a>'+
+'  <a href="javascript:void(0);"><a href="studentwriting.htm" class="menu-indent">Writing In The Seminar</a>'+
 '  <a href="javascript:void(0);"><a href="rockmural.htm" class="menu-indent">Rochester Historical Mural, Who Made Rochester</a>'+
 '  <a href="javascript:void(0);"><a href="Istandhere.htm" class="menu-indent">"I Stand Here Before You"</a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate0809.htm" class="menu-indent">What I Learned </a>'+
-'  <a href="javascript:void(0);"><a href="steeldrumband3yr.htm">The Steel Drum Band</a>'+
-'  <a href="javascript:void(0);"><a href="jimmysantiagoyr3.htm">The Jimmy Santiago Baca Library, Writing, and Publishing Center at Monroe County Jail</a>'+
+'  <a href="javascript:void(0);"><a href="steeldrumband3yr.htm">THE STEEL DRUM BAND</a>'+
+'  <a href="javascript:void(0);"><a href="jimmysantiagoyr3.htm">THE JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL</a>'+
 
 
 '</div>';
 
 var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"><a href="secondyear0708.htm">The Second Year 2007 - 2008</a>'+
-'  <a href="javascript:void(0);"><a href="prodev.htm">Professional Development</a>'+
-'  <a href="javascript:void(0);"><a href="studentwriting0708.htm">A Sampling of Student / Inmate Writing</a>'+
-'  <a href="javascript:void(0);"><a href="visualart2yr.htm">Self Portraits</a>'+
-'  <a href="javascript:void(0);"><a href="jimmysantiagoyr2.htm">The Jimmy Santiago Baca Library, Writing, and Publishing Center</a>'+
-'  <a href="javascript:void(0);"><a href="Whereistomorrow.htm">From "Where Is Tomorrow Coming From" By Dale Davis with Rochester City School Districts Students/Inmates at Monroe County Jail</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="secondyear0708.htm" class="menu-indent">Overview</a>'+
+'  <a href="javascript:void(0);"></a><a href="studentwriting0708.htm" class="menu-indent">Writing In The Seminar</a>'+
+'  <a href="javascript:void(0);"></a><a href="visualart2yr.htm">SELF PORTRAITS</a>'+
+'  <a href="javascript:void(0);"></a><a href="writing-self-portraits.htm" class="menu-indent">Writing on The Self Portraits	</a>'+
+'  <a href="javascript:void(0);"></a><a href="jimmysantiagoyr2.htm">JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL </a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
+'  <a href="javascript:void(0);"></a><a href="Whereistomorrow.htm" class="menu-indent">From "Where Is Tomorrow Coming From"</a>'+
+'  <a href="javascript:void(0);"></a><a href="prodev.htm">PROFESSIONAL DEVELOPMENT</a>'+
 '</div>';
 
 
 var twenty0607 = '<a class="qm-startopen" href="javascript:void(0)">2006 - 2007</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"><a href="firstyear0607.htm">The First Year 2006 - 2007</a>'+
-'  <a href="javascript:void(0);"><a href="studentinmate0607.htm">Student / Inmate Reflections</a>'+
-'  <a href="javascript:void(0);"><a href="studentwriting0607.htm">A Sampling of Student / Inmate Writing </a>'+
-'  <a href="javascript:void(0);"><a href="steeldrumband.htm">The Steel Drum Band</a>'+
-'  <a href="javascript:void(0);"><a href="wewantyoutoknow.htm">What We Want You To Know</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"><a href="firstyear0607.htm" class="menu-indent">Overview</a>'+
+'  <a href="javascript:void(0);"><a href="studentinmate0607.htm" class="menu-indent">Reflections</a>'+
+'  <a href="javascript:void(0);"><a href="wewantyoutoknow.htm" class="menu-indent">Writing in the Seminar</a>'+
+//'  <a href="javascript:void(0);"><a href="studentwriting0607.htm">A Sampling of Student / Inmate Writing </a>'+
+//'  <a href="javascript:void(0);"><a href="steeldrumband.htm">The Steel Drum Band</a>'+
+
 '</div>';
 
-var planning = '<a class="qm-startopen" href="javascript:void(0)">Planning Project and Pilot Program 2005 - 2006</a>'+
+var planning = '';/*'<a class="qm-startopen" href="javascript:void(0)">Planning Project and Pilot Program 2005 - 2006</a>'+
 '<div>'+
 '  <a href="javascript:void(0);"><a href="planningproject.htm">The Planning Project 2005 - 2006</a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate.htm">Student / Inmate Reflections</a>'+
-'</div>';
+'</div>';*/
 
-var misc = '<br />'+
+var misc = '<span class="qmclear">&nbsp;</span></div>';/*'<br />'+
 '<a href="studentwriting.htm">A Sampling of Student / Inmate Writing</a>'+
 '<a href="studentnotebooks.htm">From Student / Inmate Notebooks</a>'+
-'<a href="research.htm">Research</a><a href="alccresearch.htm">Research Base</a><span class="qmclear">&nbsp;</span></div>';
+'<a href="research.htm">Research</a><a href="alccresearch.htm">Research Base</a>';*/
 
 
 //Compressed CSS Styles
