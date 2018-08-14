@@ -56,7 +56,7 @@ var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015
 '<a href="javascript:void(0);"></a><a href="pippin.htm" class="menu-indent">RBTL\'s "Pippin"</a>'+
 '<a href="javascript:void(0);"></a><a href="annie.htm" class="menu-indent">RBTL\'s "Annie"</a>'+
 '    <a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
-'<a href="javascript:void(0);"></a><a href="video1964.htm" class="menu-indent">"Where We Have Been: 1964 An Educational Collaboration on the Summer of 1964"</a></div>';
+'<a href="javascript:void(0);"></a><a href="video1964.htm" class="menu-indent">"Where We Have Been: 1964 An Educational Collaboration on the Summer of 1964" (Video)</a></div>';
 
 var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014</a>'+
 '<div>'+
@@ -67,7 +67,7 @@ var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014
 '  <a href="javascript:void(0);"></a><a href="fromheretoworld.htm" class="menu-indent">Hakim Bellamy at Monroe Correctional Facility, October 2013</a>'+
 '  <a href="javascript:void(0);"></a><a href="videoHakim.htm" class="menu-indent">Video of Hakim Bellamy at Monroe Correctional Facility</a>'+
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
-'  <a href="javascript:void(0);"></a><a href="whatdowedonext.htm" class="menu-indent">"What Do We Do Next?" Performed at Monroe Correctional Facility December 19, 2013</a>'+
+'  <a href="javascript:void(0);"></a><a href="whatdowedonext.htm" class="menu-indent">"What Do We Do Next?" Performed at Monroe Correctional Facility December 19, 2013 (Video)</a>'+
 '</div>';
 
 var twenty1213 = '<a class="qm-startopen" href="javascript:void(0);">2012 - 2013</a>'+
@@ -120,8 +120,9 @@ var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009
 '  <a href="javascript:void(0);"><a href="thirdyear0809.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"><a href="studentwriting.htm" class="menu-indent">Writing In The Seminar</a>'+
 '  <a href="javascript:void(0);"><a href="rockmural.htm" class="menu-indent">Rochester Historical Mural, Who Made Rochester</a>'+
-'  <a href="javascript:void(0);"><a href="Istandhere.htm" class="menu-indent">"I Stand Here Before You"</a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate0809.htm" class="menu-indent">What I Learned </a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
+'  <a href="javascript:void(0);"><a href="Istandhere.htm" class="menu-indent">"I Stand Here Before You"</a>'+
 '  <a href="javascript:void(0);"><a href="steeldrumband3yr.htm">THE STEEL DRUM BAND</a>'+
 '  <a href="javascript:void(0);"><a href="jimmysantiagoyr3.htm">THE JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL</a>'+
 
