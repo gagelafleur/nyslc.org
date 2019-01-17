@@ -1,3 +1,10 @@
+var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
+'<div>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">NYSLC in The News</a>'+
+'<a href="javascript:void(0);"></a><a href="https://rochesterbeacon.com/2018/12/10/behind-bars-parents-work-to-build-a-family-bond/?fbclid=IwAR3xRv12DmpJFkQC8jajjaaHipbBuQcTU-cNz_D5YT3oUKkV-k7SJyzIejM" class="menu-indent">Sally Parker "Behind bars, parents work to build a family bond." Rochester  Beacon, December 10, 2018.</a>'+
+
+'    <a href="javascript:void(0);"></div>';
+
 var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
@@ -228,4 +235,4 @@ if(!qmad.sopen){qmad.sopen=new Object();qmad.sopen.log=new Array();if(qmad.binit
 
 
 //Compressed Menu Structure
-document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+twenty0708+twenty0607+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
+document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+twenty1819+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+twenty0708+twenty0607+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
