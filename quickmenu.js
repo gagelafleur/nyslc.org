@@ -2,7 +2,9 @@ var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">NYSLC in The News</a>'+
 '<a href="javascript:void(0);"></a><a href="https://rochesterbeacon.com/2018/12/10/behind-bars-parents-work-to-build-a-family-bond/?fbclid=IwAR3xRv12DmpJFkQC8jajjaaHipbBuQcTU-cNz_D5YT3oUKkV-k7SJyzIejM" class="menu-indent">Sally Parker "Behind bars, parents work to build a family bond." Rochester  Beacon, December 10, 2018.</a>'+
-
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
+'<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
 '    <a href="javascript:void(0);"></div>';
 
 var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
