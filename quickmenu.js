@@ -5,6 +5,8 @@ var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
 '<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
 '<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
+'<a href="javascript:void(0);"></a><a href="writing_by_participants_1819.htm" class="menu-indent">Writing by Participants</a>'+
+'<a href="javascript:void(0);"></a><a href="four_chapbooks.htm" class="menu-indent">Chapbooks by Participants</a>'+
 '    <a href="javascript:void(0);"></div>';
 
 var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
