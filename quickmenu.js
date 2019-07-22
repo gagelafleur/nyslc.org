@@ -2,7 +2,7 @@ var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">NYSLC in The News</a>'+
 '<a href="javascript:void(0);"></a><a href="https://rochesterbeacon.com/2018/12/10/behind-bars-parents-work-to-build-a-family-bond/?fbclid=IwAR3xRv12DmpJFkQC8jajjaaHipbBuQcTU-cNz_D5YT3oUKkV-k7SJyzIejM" class="menu-indent">Sally Parker "Behind bars, parents work to build a family bond." Rochester  Beacon, December 10, 2018.</a>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
 '<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
 '<a href="javascript:void(0);"></a><a href="writing_by_participants_1819.htm" class="menu-indent">Writing by Participants</a>'+
@@ -11,7 +11,7 @@ var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019
 
 var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
 '<div>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '<a href="javascript:void(0);"></a><a href="frederickdouglass.htm" class="menu-indent">Frederick Douglass</a>'+
 '<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">Frederick Douglass Reading List</a>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
@@ -23,14 +23,14 @@ var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018
 
 
 //<a href="Readinglist11thYear.htm">The Reading List</a>'+
-//'    <a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar1617.htm">The COMMUNITY ENGAGEMENT SEMINAR</a>'+
+//'    <a href="javascript:void(0);"></a><a href="CommunityEngagementSeminar1617.htm">The COMMUNITY ENGAGEMENT</a>'+
 //'    <a href="javascript:void(0);"></a><a href="writing2017.htm" class="menu-indent">Writing 2017</a>'+
 //'    <a href="javascript:void(0);"></a><a href="RebuildingFamilies1617.htm">REBUILDING FAMILIES </a>'+
 
 
 var twenty1617 = '<style>#qm0 .menu-indent{margin-left: 15px;}</style><a class="qm-startopen" href="javascript:void(0);">2016 - 2017</a>'+
 '<div>'+
-'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'    <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '		 <a href="javascript:void(0);"></a><a href="Readinglist11thYear.htm" class="menu-indent">The Reading List</a>'+
 '    <a href="javascript:void(0);"></a><a href="writing2017.htm" class="menu-indent">Writing In The Seminar</a>'+
 '    <a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
@@ -39,7 +39,7 @@ var twenty1617 = '<style>#qm0 .menu-indent{margin-left: 15px;}</style><a class="
 '    <a href="javascript:void(0);"></div>';
 
 var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016</a>'+
-'<div><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'<div><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '    <a href="javascript:void(0);"></a><a href="Readinglist10thYear.htm" class="menu-indent">The Reading List</a>'+
 '    <a href="javascript:void(0);"></a><a href="notesnativesons.htm" class="menu-indent">Notes of Two Rochester Native Sons</a>'+
 '    <a href="javascript:void(0);"></a><a href="images/MensWriting.pdf" class="menu-indent">Writing by Men</a>'+
@@ -56,7 +56,7 @@ var twenty1516 = '<a class="qm-startopen" href="javascript:void(0);">2015 - 2016
 var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015</a>'+
 '<div>'+
 
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '<a href="javascript:void(0);"></a><a href="ReadinglistNinthYear.htm" class="menu-indent">The Reading List</a>'+
 '<a href="javascript:void(0);"></a><a href="WIPNinthYr.htm" class="menu-indent">Work In Progress: Writing by Men and Women </a>'+
 '<a href="javascript:void(0);"></a><a href="foodforthought/Food For Thought June 2015.pdf" target="new window" class="menu-indent">Food For Thought, Newsletter by Men and Women on Rochester\'s Poverty Initiative </a>'+
@@ -71,7 +71,7 @@ var twenty1415 = '<a class="qm-startopen" href="javascript:void(0);">2014 - 2015
 
 var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="readinglisteighthyear.htm" class="menu-indent">The Reading List</a>'+
 '  <a href="javascript:void(0);"></a><a href="8thyearOverview.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"></a><a href="ROC_Hunger_Drawings.htm" class="menu-indent">ROC Hunger Drawings</a>'+
@@ -83,7 +83,7 @@ var twenty1314 = '<a class="qm-startopen" href="javascript:void(0);">2013 - 2014
 
 var twenty1213 = '<a class="qm-startopen" href="javascript:void(0);">2012 - 2013</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="readinglistseventhyear.htm" class="menu-indent">The Reading List</a>'+
 '  <a href="javascript:void(0);"></a><a href="WIP.htm" class="menu-indent">Work In Progress</a>'+
 '  <a href="javascript:void(0);"></a><a href="lifeandtimes.htm" class="menu-indent">Narrative of Our Life and Times</a>'+
@@ -91,7 +91,7 @@ var twenty1213 = '<a class="qm-startopen" href="javascript:void(0);">2012 - 2013
 
 var twenty1112 = '<a class="qm-startopen" href="javascript:void(0);">2011 - 2012</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="thetimelineproject19701990.htm" class="menu-indent">The Timeline Project 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="timeline19701990.htm" class="menu-indent">Creating the Timeline 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="darkside.htm" class="menu-indent">Rochester: The Dark Side</a>'+
@@ -102,7 +102,7 @@ var twenty1112 = '<a class="qm-startopen" href="javascript:void(0);">2011 - 2012
 
 var twenty1011 = '<a class="qm-startopen" href="javascript:void(0);">2010 - 2011</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="timelineproject.htm" class="menu-indent">The Timeline Project 1950 - 1970</a>'+
 '  <a href="javascript:void(0);"></a><a href="5th%20year%20partnership.htm" class="menu-indent">Sharing Thoughts on Education and The Stories of Incarcerated Youth with High School Principals</a>'+
 '  <a href="javascript:void(0);"></a><a href="dreamsmural.htm" class="menu-indent">Picturing Our Dreams</a>'+
@@ -113,7 +113,7 @@ var twenty1011 = '<a class="qm-startopen" href="javascript:void(0);">2010 - 2011
 
 var twenty0910 = '<a class="qm-startopen" href="javascript:void(0);">2009 - 2010</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 //'  <a href="javascript:void(0);"><a href="fourthyear0910.htm">The Fourth Year 2009 - 2010</a>'+
 '  <a href="javascript:void(0);"><a href="studentnotebooks.htm" class="menu-indent">Notebooks of Seminar Participants </a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate09-10.htm" class="menu-indent">Reflections</a>'+
@@ -127,7 +127,7 @@ var twenty0910 = '<a class="qm-startopen" href="javascript:void(0);">2009 - 2010
 var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009</a>'+
 '<div>'+
 
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"><a href="thirdyear0809.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"><a href="studentwriting.htm" class="menu-indent">Writing In The Seminar</a>'+
 '  <a href="javascript:void(0);"><a href="rockmural.htm" class="menu-indent">Rochester Historical Mural, Who Made Rochester</a>'+
@@ -142,7 +142,7 @@ var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009
 
 var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="secondyear0708.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"></a><a href="studentwriting0708.htm" class="menu-indent">Writing In The Seminar</a>'+
 '  <a href="javascript:void(0);"></a><a href="visualart2yr.htm">SELF PORTRAITS</a>'+
@@ -156,7 +156,7 @@ var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008<
 
 var twenty0607 = '<a class="qm-startopen" href="javascript:void(0)">2006 - 2007</a>'+
 '<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT SEMINAR</a>'+
+'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"><a href="firstyear0607.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate0607.htm" class="menu-indent">Reflections</a>'+
 '  <a href="javascript:void(0);"><a href="wewantyoutoknow.htm" class="menu-indent">Writing in the Seminar</a>'+
