@@ -1,3 +1,25 @@
+var murals = '<a class="qm-startopen" href="javascript:void(0);">NYSLC MURALS</a>'+
+'<div>'+
+'<a href="javascript:void(0);"></a><a href="historicalmural.htm">THE ROCHESTER HISTORICAL MURAL - 2009</a>'+
+'<a href="javascript:void(0);"></a><a href="visitingroommural.htm">MURALS FOR THE VISITING ROOMS - 2010</a>'+
+'<a href="javascript:void(0);"></a><a href="dreamsmural.htm">PICTURING OUR DREAMS MURAL - 2011</a>'+
+'<a href="javascript:void(0);"></a><a href="picturingdreams.htm" class="menu-indent">PICTURING OUR DREAMS MURAL - 2011 at Link Gallery, Rochester City Hall</a>'+
+'<a href="javascript:void(0);"></a><a href="timeline1950.htm">THE TIMELINE MURAL, 1950 - 1970 - 2011</a>'+
+'<a href="javascript:void(0);"></a><a href="timeline1970.htm">THE TIMELINE MURAL, 1970 - 1990 - 2012</a>'+
+'    <a href="javascript:void(0);"></div>';
+
+var theater = '<a class="qm-startopen" href="javascript:void(0);">NYSLC THEATER</a>'+
+'<div>'+
+'<a href="javascript:void(0);"></a><a href="lessonsleft.htm">A COUPLE OF LESSONS LEFT - 2003</a>'+
+'<a href="javascript:void(0);"></a><a href="tomorrowfrom.htm">WHERE IS TOMORROW COMING FROM - 2008</a>'+
+'<a href="javascript:void(0);"></a><a href="notesjail.htm">NOTES FROM MONROE COUNTY JAIL -2010</a>'+
+'<a href="javascript:void(0);"></a><a href="bornraised.htm">BORN AND RAISED IN THE ROC - 2011</a>'+
+'<a href="javascript:void(0);"></a><a href="whatnext.htm">WHAT DO WE DO NEXT - 2013</a>'+
+'<a href="javascript:void(0);"></a><a href="whatdowedonext.htm">WHAT DO WE DO NEXT (Video)</a>'+
+'    <a href="javascript:void(0);"></div>';
+
+
+
 var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">NYSLC in The News</a>'+
@@ -95,7 +117,7 @@ var twenty1112 = '<a class="qm-startopen" href="javascript:void(0);">2011 - 2012
 '  <a href="javascript:void(0);"></a><a href="thetimelineproject19701990.htm" class="menu-indent">The Timeline Project 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="timeline19701990.htm" class="menu-indent">Creating the Timeline 1970 - 1990</a>'+
 '  <a href="javascript:void(0);"></a><a href="darkside.htm" class="menu-indent">Rochester: The Dark Side</a>'+
-'  <a href="javascript:void(0);"></a><a href="picturingdreams.htm" class="menu-indent">PICTURING OUR DREAMS Link Gallery, Rochester City Hall</a>'+
+//'  <a href="javascript:void(0);"></a><a href="picturingdreams.htm" class="menu-indent">PICTURING OUR DREAMS Link Gallery, Rochester City Hall</a>'+
 //'  <a href="javascript:void(0);"></a><a href="sixthyear1112.htm">The Sixth Year 2011 - 2012</a>'+
 //'  <a href="javascript:void(0);"></a><a href="SoldiersStory.htm">"A Soldier\'s Story" By Charles Fuller</a>'+
 '</div>';
@@ -105,7 +127,7 @@ var twenty1011 = '<a class="qm-startopen" href="javascript:void(0);">2010 - 2011
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"></a><a href="timelineproject.htm" class="menu-indent">The Timeline Project 1950 - 1970</a>'+
 '  <a href="javascript:void(0);"></a><a href="5th%20year%20partnership.htm" class="menu-indent">Sharing Thoughts on Education and The Stories of Incarcerated Youth with High School Principals</a>'+
-'  <a href="javascript:void(0);"></a><a href="dreamsmural.htm" class="menu-indent">Picturing Our Dreams</a>'+
+//'  <a href="javascript:void(0);"></a><a href="dreamsmural.htm" class="menu-indent">Picturing Our Dreams</a>'+
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '  <a href="javascript:void(0);"></a><a href="raisedintheroc.htm" class="menu-indent">"Born Raised In The Roc"</a>'+
 //'  <a href="javascript:void(0);"></a><a href="fifthyear1011.htm">The Fifth Year 2010 - 2011</a>'+
@@ -117,9 +139,9 @@ var twenty0910 = '<a class="qm-startopen" href="javascript:void(0);">2009 - 2010
 //'  <a href="javascript:void(0);"><a href="fourthyear0910.htm">The Fourth Year 2009 - 2010</a>'+
 '  <a href="javascript:void(0);"><a href="studentnotebooks.htm" class="menu-indent">Notebooks of Seminar Participants </a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate09-10.htm" class="menu-indent">Reflections</a>'+
-'  <a href="javascript:void(0);"><a href="freedommural.htm" class="menu-indent">Murals for the Visiting Rooms</a>'+
+//'  <a href="javascript:void(0);"><a href="freedommural.htm" class="menu-indent">Murals for the Visiting Rooms</a>'+
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
-'  <a href="javascript:void(0);"><a href="4north.htm" class="menu-indent">"Notes From 4 North, When You Fail Part of Me Dies"</a>'+
+//'  <a href="javascript:void(0);"><a href="4north.htm" class="menu-indent">"Notes From 4 North, When You Fail Part of Me Dies"</a>'+
 '  <a href="javascript:void(0);"><a href="annefrankabout.htm">THE ANNE FRANK PRISON DIARY WRITING PROJECT</a>'+
 '  <a href="javascript:void(0);"><a href="steeldrumband4yr.htm">THE STEEL DRUM BAND</a>'+
 '</div>';
@@ -130,7 +152,7 @@ var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '  <a href="javascript:void(0);"><a href="thirdyear0809.htm" class="menu-indent">Overview</a>'+
 '  <a href="javascript:void(0);"><a href="studentwriting.htm" class="menu-indent">Writing In The Seminar</a>'+
-'  <a href="javascript:void(0);"><a href="rockmural.htm" class="menu-indent">Rochester Historical Mural, Who Made Rochester</a>'+
+//'  <a href="javascript:void(0);"><a href="rockmural.htm" class="menu-indent">Rochester Historical Mural, Who Made Rochester</a>'+
 '  <a href="javascript:void(0);"><a href="studentinmate0809.htm" class="menu-indent">What I Learned </a>'+
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 '  <a href="javascript:void(0);"><a href="Istandhere.htm" class="menu-indent">"I Stand Here Before You"</a>'+
@@ -149,7 +171,7 @@ var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008<
 '  <a href="javascript:void(0);"></a><a href="writing-self-portraits.htm" class="menu-indent">Writing on The Self Portraits	</a>'+
 '  <a href="javascript:void(0);"></a><a href="jimmysantiagoyr2.htm">JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL </a>'+
 '  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
-'  <a href="javascript:void(0);"></a><a href="Whereistomorrow.htm" class="menu-indent">From "Where Is Tomorrow Coming From"</a>'+
+//'  <a href="javascript:void(0);"></a><a href="Whereistomorrow.htm" class="menu-indent">From "Where Is Tomorrow Coming From"</a>'+
 '  <a href="javascript:void(0);"></a><a href="prodev.htm">PROFESSIONAL DEVELOPMENT</a>'+
 '</div>';
 
@@ -239,4 +261,4 @@ if(!qmad.sopen){qmad.sopen=new Object();qmad.sopen.log=new Array();if(qmad.binit
 
 
 //Compressed Menu Structure
-document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+twenty1819+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+twenty0708+twenty0607+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
+document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+murals+theater+twenty1819+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+twenty0708+twenty0607+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
