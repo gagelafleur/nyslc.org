@@ -18,12 +18,24 @@ var theater = '<a class="qm-startopen" href="javascript:void(0);">NYSLC THEATER<
 '<a href="javascript:void(0);"></a><a href="whatdowedonext.htm">WHAT DO WE DO NEXT (Video)</a>'+
 '    <a href="javascript:void(0);"></div>';
 
+var twenty0607 = '<a class="qm-startopen" href="history2006.htm">NYSLC\'S Incarcerated Education Program 2006 - 2007</a>'+
+'<div>'+
+//'<a href="javascript:void(0);"></a><a href="history2006.htm">Writing by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentwriting0607.htm">Writing by Incarcerated Youth</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentinmate0607.htm">Reflections by Incarcerated Youth Who Participated in NYSLC\'s Incarcerated Education Program</a>'+
+//'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
+'    <a href="javascript:void(0);"></div>';
 
+var twenty0708 = '<a class="qm-startopen" href="history2007.htm">NYSLC\'S Incarcerated Education Program 2007 - 2008</a>'+
+'<div>'+
+//'<a href="javascript:void(0);"></a><a href="history2006.htm">Writing by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentwriting0607.htm">Writing by Incarcerated Youth</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentinmate0607.htm">Reflections by Incarcerated Youth Who Participated in NYSLC\'s Incarcerated Education Program</a>'+
+//'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
+'    <a href="javascript:void(0);"></div>';
 
 var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
 '<div>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">NYSLC in The News</a>'+
-'<a href="javascript:void(0);"></a><a href="https://rochesterbeacon.com/2018/12/10/behind-bars-parents-work-to-build-a-family-bond/?fbclid=IwAR3xRv12DmpJFkQC8jajjaaHipbBuQcTU-cNz_D5YT3oUKkV-k7SJyzIejM" class="menu-indent">Sally Parker "Behind bars, parents work to build a family bond." Rochester  Beacon, December 10, 2018.</a>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
 '<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
 '<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
@@ -162,30 +174,30 @@ var twenty0809 = '<a class="qm-startopen" href="javascript:void(0);">2008 - 2009
 
 '</div>';
 
-var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008</a>'+
-'<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
-'  <a href="javascript:void(0);"></a><a href="secondyear0708.htm" class="menu-indent">Overview</a>'+
-'  <a href="javascript:void(0);"></a><a href="studentwriting0708.htm" class="menu-indent">Writing In The Seminar</a>'+
-'  <a href="javascript:void(0);"></a><a href="visualart2yr.htm">SELF PORTRAITS</a>'+
-'  <a href="javascript:void(0);"></a><a href="writing-self-portraits.htm" class="menu-indent">Writing on The Self Portraits	</a>'+
-'  <a href="javascript:void(0);"></a><a href="jimmysantiagoyr2.htm">JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL </a>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
+//var twenty0708 = '<a class="qm-startopen" href="javascript:void(0)">2007 - 2008</a>'+
+//'<div>'+
+//'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
+//'  <a href="javascript:void(0);"></a><a href="secondyear0708.htm" class="menu-indent">Overview</a>'+
+//'  <a href="javascript:void(0);"></a><a href="studentwriting0708.htm" class="menu-indent">Writing In The Seminar</a>'+
+//'  <a href="javascript:void(0);"></a><a href="visualart2yr.htm">SELF PORTRAITS</a>'+
+//'  <a href="javascript:void(0);"></a><a href="writing-self-portraits.htm" class="menu-indent">Writing on The Self Portraits	</a>'+
+//'  <a href="javascript:void(0);"></a><a href="jimmysantiagoyr2.htm">JIMMY SANTIAGO BACA LIBRARY, WRITING, AND PUBLISHING CENTER AT MONROE COUNTY JAIL </a>'+
+//'  <a href="javascript:void(0);"></a><a href="javascript:void(0);"></a><a href="javascript:void(0);">THEATER </a>'+
 //'  <a href="javascript:void(0);"></a><a href="Whereistomorrow.htm" class="menu-indent">From "Where Is Tomorrow Coming From"</a>'+
-'  <a href="javascript:void(0);"></a><a href="prodev.htm">PROFESSIONAL DEVELOPMENT</a>'+
-'</div>';
+//'  <a href="javascript:void(0);"></a><a href="prodev.htm">PROFESSIONAL DEVELOPMENT</a>'+
+//'</div>';
 
 
-var twenty0607 = '<a class="qm-startopen" href="javascript:void(0)">2006 - 2007</a>'+
-'<div>'+
-'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
-'  <a href="javascript:void(0);"><a href="firstyear0607.htm" class="menu-indent">Overview</a>'+
-'  <a href="javascript:void(0);"><a href="studentinmate0607.htm" class="menu-indent">Reflections</a>'+
-'  <a href="javascript:void(0);"><a href="wewantyoutoknow.htm" class="menu-indent">Writing in the Seminar</a>'+
+//var twenty0607 = '<a class="qm-startopen" href="javascript:void(0)">2006 - 2007</a>'+
+//'<div>'+
+//'  <a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
+//'  <a href="javascript:void(0);"><a href="firstyear0607.htm" class="menu-indent">Overview</a>'+
+//'  <a href="javascript:void(0);"><a href="studentinmate0607.htm" class="menu-indent">Reflections</a>'+
+//'  <a href="javascript:void(0);"><a href="wewantyoutoknow.htm" class="menu-indent">Writing in the Seminar</a>'+
 //'  <a href="javascript:void(0);"><a href="studentwriting0607.htm">A Sampling of Student / Inmate Writing </a>'+
 //'  <a href="javascript:void(0);"><a href="steeldrumband.htm">The Steel Drum Band</a>'+
 
-'</div>';
+//'</div>';
 
 var planning = '';/*'<a class="qm-startopen" href="javascript:void(0)">Planning Project and Pilot Program 2005 - 2006</a>'+
 '<div>'+
@@ -261,4 +273,4 @@ if(!qmad.sopen){qmad.sopen=new Object();qmad.sopen.log=new Array();if(qmad.binit
 
 
 //Compressed Menu Structure
-document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+murals+theater+twenty1819+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+twenty0708+twenty0607+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
+document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+murals+theater+twenty0607+twenty0708+twenty1819+twenty1718+twenty1617+twenty1516+twenty1415+twenty1314+twenty1213+twenty1112+twenty1011+twenty0910+twenty0809+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
