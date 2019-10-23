@@ -112,6 +112,14 @@ var twenty1617 = '<a class="qm-startopen" href="history2016.htm">NYSLC\'S Incarc
 //'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
 '    <a href="javascript:void(0);"></div>';
 
+var twenty1718 = '<a class="qm-startopen" href="history2017.htm">NYSLC\'S Incarcerated Education Program 2017 - 2018</a>'+
+'<div>'+
+//'<a href="javascript:void(0);"></a><a href="history2006.htm">Writing by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentwriting0607.htm">Writing by Incarcerated Youth</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentinmate0607.htm">Reflections by Incarcerated Youth Who Participated in NYSLC\'s Incarcerated Education Program</a>'+
+//'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
+'    <a href="javascript:void(0);"></div>';
+
 var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
 '<div>'+
 '<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
@@ -121,15 +129,15 @@ var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019
 '<a href="javascript:void(0);"></a><a href="four_chapbooks.htm" class="menu-indent">Chapbooks by Participants</a>'+
 '    <a href="javascript:void(0);"></div>';
 
-var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
-'<div>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
-'<a href="javascript:void(0);"></a><a href="frederickdouglass.htm" class="menu-indent">Frederick Douglass</a>'+
-'<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">Frederick Douglass Reading List</a>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
-'<a href="javascript:void(0);"></a><a href="christmasstory.htm" class="menu-indent">RBTL\'s \"A CHRISTMAS STORY, The Musical\"</a>'+
+//var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
+//'<div>'+
+//'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
+///'<a href="javascript:void(0);"></a><a href="frederickdouglass.htm" class="menu-indent">Frederick Douglass</a>'+
+//'<a href="javascript:void(0);"></a><a href="frederickdouglassreadinglist.htm" class="menu-indent">Frederick Douglass Reading List</a>'+
+//'<a href="javascript:void(0);"></a><a href="javascript:void(0);">REBUILDING FAMILIES </a>'+
+//'<a href="javascript:void(0);"></a><a href="christmasstory.htm" class="menu-indent">RBTL\'s \"A CHRISTMAS STORY, The Musical\"</a>'+
 
-'    <a href="javascript:void(0);"></div>';
+//'    <a href="javascript:void(0);"></div>';
 
 
 
@@ -351,4 +359,4 @@ if(!qmad.sopen){qmad.sopen=new Object();qmad.sopen.log=new Array();if(qmad.binit
 
 
 //Compressed Menu Structure
-document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+murals+theater+interactive+twenty0607+twenty0708+twenty0809+twenty0910+twenty1011+twenty1112+twenty1213+twenty1314+twenty1415+twenty1516+twenty1617+twenty1819+twenty1718+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
+document.write('<!--[START-QM0]--><div id="qm0" class="qmmc">'+murals+theater+interactive+twenty0607+twenty0708+twenty0809+twenty0910+twenty1011+twenty1112+twenty1213+twenty1314+twenty1415+twenty1516+twenty1617+twenty1718+twenty1819+planning+misc+'<script type="text/javascript">qm_create(0,true,0,0,false,false,false,false,false);</script><!--[END-QM0]-->');
