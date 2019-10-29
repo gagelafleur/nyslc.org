@@ -120,14 +120,22 @@ var twenty1718 = '<a class="qm-startopen" href="history2017.htm">NYSLC\'S Incarc
 //'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
 '    <a href="javascript:void(0);"></div>';
 
-var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
+var twenty1819 = '<a class="qm-startopen" href="history2018.htm">NYSLC\'S Incarcerated Education Program 2018 - 2019</a>'+
 '<div>'+
-'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+
-'<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
-'<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
-'<a href="javascript:void(0);"></a><a href="writing_by_participants_1819.htm" class="menu-indent">Writing by Participants</a>'+
-'<a href="javascript:void(0);"></a><a href="four_chapbooks.htm" class="menu-indent">Chapbooks by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="history2006.htm">Writing by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentwriting0607.htm">Writing by Incarcerated Youth</a>'+
+//'<a href="javascript:void(0);"></a><a href="studentinmate0607.htm">Reflections by Incarcerated Youth Who Participated in NYSLC\'s Incarcerated Education Program</a>'+
+//'<a href="javascript:void(0);"></a><a href="wewantyoutoknow.htm">What We Want You To Know </a>'+
 '    <a href="javascript:void(0);"></div>';
+
+//var twenty1819 = '<a class="qm-startopen" href="javascript:void(0);">2018 - 2019</a>'+
+//'<div>'+
+//'<a href="javascript:void(0);"></a><a href="javascript:void(0);">COMMUNITY ENGAGEMENT</a>'+/
+//'<a href="javascript:void(0);"></a><a href="whatisthecommunityengagementseminar.htm" class="menu-indent">What Is The Community Engagement Seminar</a>'+
+//'<a href="javascript:void(0);"></a><a href="participantsseminar.htm" class="menu-indent">Participants In The Community Engagement Seminar </a>'+
+//'<a href="javascript:void(0);"></a><a href="writing_by_participants_1819.htm" class="menu-indent">Writing by Participants</a>'+
+//'<a href="javascript:void(0);"></a><a href="four_chapbooks.htm" class="menu-indent">Chapbooks by Participants</a>'+
+//'    <a href="javascript:void(0);"></div>';
 
 //var twenty1718 = '<a class="qm-startopen" href="javascript:void(0);">2017 - 2018</a>'+
 //'<div>'+
